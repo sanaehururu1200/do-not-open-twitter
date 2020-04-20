@@ -15,5 +15,5 @@
 
 (function() {
 	'use strict';
-	location.href = 'https://soundcloud.com/you/likes';
+	location.href = 'https://mail.google.com/';
 })();
